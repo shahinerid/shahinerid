@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shahinerid
 - 👀 I’m interested in Java, Machine Learning, AI, Python
-- 🌱 I’m currently learning Data Structure, Algorithms and Machine Learing
+- 🌱 I’m currently learning Data Structure, Algorithms and Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me abcanzu@gmail.com
 
