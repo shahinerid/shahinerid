@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shahinerid
+- 👋 Hi, I’m @shahin
 - 👀 I’m interested in Java, Machine Learning, AI, Python
 - 🌱 I’m currently learning Data Structure, Algorithms and Machine Learning
 - 💞️ I’m looking to collaborate on Open Source Projects
